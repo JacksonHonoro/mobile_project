@@ -1,15 +1,15 @@
 # Mobile_Project
 Estrutura inicial de um projeto Mobile React Native (configurado Reactotron, React-navigation, eslint, prettier).
 
-*Obs:
-- Alterar o name do package.json, colocar o nome do seu projeto.
+*Observações:
+> Alterar o name do package.json, colocar o nome do seu projeto.
 
-- Acrescentar algumas linhas referente ao react-navigation (conforme sua documentação exige) no arquivo MainActivity.java:
+> Acrescentar algumas linhas referente ao react-navigation (conforme sua documentação exige) no arquivo MainActivity.java:
 
 https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html
 
 
-package com.mobile_project;
+package com.SeuProjeto;
 
 + import com.facebook.react.ReactActivity;
 + import com.facebook.react.ReactActivityDelegate;
@@ -37,4 +37,6 @@ public class MainActivity extends ReactActivity {
   + }
 }
 
-- Após terminar, executar o comando yarn.
+> Salve o arquivo.
+
+> Após terminar, executar o comando yarn.
