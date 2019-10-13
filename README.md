@@ -9,7 +9,7 @@ Estrutura inicial de um projeto Mobile React Native (configurado Reactotron, Rea
 https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html
 
 
-package com.mobile_project;
+package com.SeuProjeto;
 
 + import com.facebook.react.ReactActivity;
 + import com.facebook.react.ReactActivityDelegate;
