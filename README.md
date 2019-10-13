@@ -1,7 +1,7 @@
 # Mobile_Project
 Estrutura inicial de um projeto Mobile React Native (configurado Reactotron, React-navigation, eslint, prettier).
 
-*Obs:
+*Observações:
 > Alterar o name do package.json, colocar o nome do seu projeto.
 
 > Acrescentar algumas linhas referente ao react-navigation (conforme sua documentação exige) no arquivo MainActivity.java:
